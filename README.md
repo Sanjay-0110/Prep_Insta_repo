@@ -1,13 +1,13 @@
 # WEEK 4
 **Output**  
 # **Population of inda over the year**
-![Alt text](Week 4/Output/Population of inda over the year.png "a title")  
+![Alt text](Output/Population of inda over the year.png )  
 # **Region Wise Population over the year**
-![Alt text](Week 4/Output/region wise  population.png "a title")  
+![Alt text](Output/region wise  population.png )  
 # **Fertility Rate vs Life Expectancy**  
-![Alt text](Week 4/Output/Fertility rate vs life exceptency.png "a title")  
+![Alt text](Output/Fertility rate vs life exceptency.png )  
 # **Population vs Life Expectancy**  
-![Alt text](Week 4/Output/Population of inda over the year.png "a title")
+![Alt text](Output/Population of inda over the year.png)
 
 These plots are dynamic, GitHub don't show them.
 If you need to see, then copy the notebook link from my repo.  
